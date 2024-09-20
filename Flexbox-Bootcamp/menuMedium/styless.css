@@ -1,0 +1,26 @@
+nav {
+    background: lightgrey;
+    height: 3rem;
+    display: flex;
+    /* justify-content: flex-end; */
+    /* align-items: center; */
+}
+
+nav a {
+    color: grey;
+    text-decoration: none;
+    margin: 1rem;
+}
+
+nav img {
+    height: 50%;
+    margin: auto auto auto 1rem;
+}
+
+nav a:hover {
+background: grey
+}
+
+
+
+

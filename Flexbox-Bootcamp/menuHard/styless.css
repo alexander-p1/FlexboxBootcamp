@@ -1,0 +1,36 @@
+
+nav {
+    background: lightgrey;
+    height: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+nav a {
+    color: grey;
+    text-decoration: none;
+    display: flex;
+    padding: 0 1rem;
+}
+
+nav div {
+    display: flex;
+    gap: 1rem;
+}
+
+
+nav img {
+    max-height: 100%;
+    margin-left: 1rem;
+}
+
+nav button {
+    margin-right: 1rem;
+}
+
+nav a:hover {
+    background: grey;
+    color: white;
+}
